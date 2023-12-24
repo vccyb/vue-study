@@ -13,7 +13,9 @@
 // import MyComponent from "./components/06-prop-validate.vue";
 // import MyComponent from "./components/07-function-component.vue";
 // import MyComponent from "./components/08-h-function.vue";
-import MyComponent from "./components/09-tree-component.vue";
+// import MyComponent from "./components/09-tree-component.vue";
+// import MyComponent from "./components/10-life-hook.vue";
+import MyComponent from "./components/12-ref.vue";
 </script>
 
 <style scoped></style>
